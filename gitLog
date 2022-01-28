@@ -1,0 +1,23 @@
+commit 257fdbf6fe1a5fb72e7efb1db7cddcf592f07e1f (HEAD -> master)
+Author: Claire Fielden <FLDCLA001@myuct.ac.za>
+Date:   Mon Aug 23 08:48:20 2021 -0400
+
+    Added java doc
+
+commit 805812e9ebfe6d011bef1a05b5d0e9d26593c59e
+Author: Claire Fielden <FLDCLA001@myuct.ac.za>
+Date:   Mon Aug 23 06:42:07 2021 -0400
+
+    Fixed file I/O
+
+commit 4315f81ed9ede86ed3e6b142313041381431023d
+Author: Claire Fielden <FLDCLA001@myuct.ac.za>
+Date:   Mon Aug 23 06:09:42 2021 -0400
+
+    Fixed makefile
+
+commit c918e49e99d4cad4310f5c19827867f0b68bf0b4
+Author: Claire Fielden <FLDCLA001@myuct.ac.za>
+Date:   Mon Aug 23 04:30:28 2021 -0400
+
+    version 1
